@@ -35,5 +35,6 @@
 /eshell
 ido.last
 /recentf
-/lisp
+lisp
 *.dat
+srecode-map.el
