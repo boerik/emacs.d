@@ -3,10 +3,6 @@
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
 
-;; FONT
-(set-default-font
- "-apple-inconsolata-medium-r-normal--14-130-72-72-m-130-iso10646-1")
-
 ;; Turn that beep off!!
 (setq ring-bell-function 'ignore)
 

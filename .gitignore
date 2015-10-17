@@ -26,3 +26,14 @@
 *.exe
 *.out
 *.app
+
+# Emacs
+/.session
+/auto-save-list
+/.session
+/elpa
+/eshell
+ido.last
+/recentf
+/lisp
+*.dat

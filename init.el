@@ -1,6 +1,8 @@
 ;; init.el
 ;; Boe emacs config file
 
+(add-to-list 'load-path "~/.emacs.d/custom")
+
 (require 'setup-tweaks)                 ; If an error occour, at least we want this one loaded
 
 (require 'package)
@@ -15,6 +17,7 @@
     helm-swoop                          ; Navigation
     elscreen
     elscreen-separate-buffer-list
+    powerline
     ;; -- File Manager
     ;; -- Navigation
     anzu                                ; Isearch -> displays current/total matches
@@ -30,6 +33,7 @@
     volatile-highlights
     iedit
     symon                               ; system monitor
+    undo-tree
     ;; ---- Error checking
     flycheck
     ;; ---- Completion
@@ -67,8 +71,6 @@
       (package-install package))))
 
 (install-packages)
-
-(add-to-list 'load-path "~/.emacs.d/custom")
 
 (require 'setup-interface)
 (require 'setup-editing)
