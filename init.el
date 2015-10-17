@@ -1,5 +1,7 @@
 ;; init.el
-;; Erik Stenberg
+;; Boe emacs config file
+
+(require 'setup-tweaks)                 ; If an error occour, at least we want this one loaded
 
 (require 'package)
 (add-to-list 'package-archives
@@ -67,7 +69,7 @@
 (install-packages)
 
 (add-to-list 'load-path "~/.emacs.d/custom")
-(require 'setup-tweaks)
+
 (require 'setup-interface)
 (require 'setup-editing)
 (require 'setup-helm)                   ; helm & helm-swoop
@@ -81,5 +83,6 @@
 (require 'setup-openfoam)
 (require 'setup-latex)
 (require 'setup-bindings)
+
 (add-hook 'c-mode-common-hook 'openfoam-hgw-c-mode-hook)
 

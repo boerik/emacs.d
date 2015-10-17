@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-# name: arrayFor
-# key: arrayFor
-# --
-for (j = 0; j < ${1:ny}; j++) {
-    for (i = 0; i < ${2:nx}; i++) { 
-        $0
-    }
-}
