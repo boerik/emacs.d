@@ -8,8 +8,8 @@
 
 (global-set-key (kbd "C-c j") 'multi-term-dedicated-toggle)
 
-(setq multi-term-program "/bin/bash")
-(setenv "PATH" "/usr/local/texlive/:$PATH" t)
+;; (setq multi-term-program "/bin/bash")
+;; (setenv "PATH" "/usr/local/texlive/:$PATH" t)
 
 (global-set-key (kbd "C-c t") 'multi-term)
 
