@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Info
+# key: Info
+# --
+Info << ${1:string} $0<< endl;

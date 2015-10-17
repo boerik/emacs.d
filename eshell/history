@@ -1,0 +1,6 @@
+ls
+cd $WMPUD
+ls
+enc
+env
+exit

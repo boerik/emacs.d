@@ -1,0 +1,65 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("HPC-project"
+ (filename . "/Users/erikstenberg/Google Drive/KTH5/project/")
+ (presel . "/Users/erikstenberg/Google Drive/KTH5/project/.")
+ (handler . helm-ff-bookmark-jump))
+("mesh"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/OpenFOAM/meshes/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/OpenFOAM/meshes/.")
+ (handler . helm-ff-bookmark-jump))
+("finite volume"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/finiteVolume/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/finiteVolume/.DS_Store")
+ (handler . helm-ff-bookmark-jump))
+("db"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/OpenFOAM/db/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/OpenFOAM/db/IOobjectList")
+ (handler . helm-ff-bookmark-jump))
+("ES/run"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/run/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/run/.")
+ (handler . helm-ff-bookmark-jump))
+("ES/src"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/src/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/src/.")
+ (handler . helm-ff-bookmark-jump))
+("ES/app"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/.")
+ (handler . helm-ff-bookmark-jump))
+("OF/app"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/applications/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/applications/solvers")
+ (handler . helm-ff-bookmark-jump))
+("OF/src"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/src/.")
+ (handler . helm-ff-bookmark-jump))
+("ES"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/.")
+ (handler . helm-ff-bookmark-jump))
+("OF"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/.")
+ (handler . helm-ff-bookmark-jump))
+("Incomp solvers"
+ (filename . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/applications/solvers/incompressible/")
+ (presel . "/Users/erikstenberg/OpenFOAM/OpenFOAM-2.3.1/applications/solvers/incompressible/.")
+ (handler . helm-ff-bookmark-jump))
+("My test applications"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/test/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/test/.")
+ (handler . helm-ff-bookmark-jump))
+("myRTSexample"
+ (filename . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/src/demos/myRunTimeSelection/")
+ (presel . "/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/src/demos/myRunTimeSelection/.")
+ (handler . helm-ff-bookmark-jump))
+("Latex RTS"
+ (filename . "/Users/erikstenberg/Google Drive/MasterWork/docs/prework/runTimeSelection/")
+ (presel . "/Users/erikstenberg/Google Drive/MasterWork/docs/prework/runTimeSelection/article1-mod.log")
+ (handler . helm-ff-bookmark-jump))
+)

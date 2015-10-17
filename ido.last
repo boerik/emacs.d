@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/test/myRTStest2/" . "Make/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ 
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/erikstenberg/.emacs.d/custom/" (21939 33843 0 0) "setup-tweaks.el" "setup-term.el" "setup-programming.el" "setup-openfoam.el" "setup-navigation.el" "setup-layout.el" "setup-latex.el" "setup-helm.el" "setup-errorchecking.el" "setup-editing.el" "setup-completion.el" "setup-bindings.el" ".#setup-term.el" ".#setup-navigation.el" "#setup-navigation.el#" "../" "./")
+
+ ("/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/test/myRTStest2/Make/" (21914 40496 0 0) "options" "files" "darwinIntel64ClangDPOpt/" "../" "./")
+
+ ("/Users/erikstenberg/OpenFOAM/erikstenberg-2.3.1/applications/test/myRTStest2/" (21939 28227 0 0) "myRTStest2.dep" "myRTStest2.C" "expandedMacroCode/" "Make/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
