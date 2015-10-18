@@ -37,3 +37,4 @@
 /recentf
 *.dat
 /srecode-map.el
+/custom/setup-local.el
