@@ -4,6 +4,7 @@
 (add-to-list 'load-path "~/.emacs.d/custom")
 
 (require 'setup-tweaks)                 ; If an error occour, at least we want this one loaded
+(require 'setup-local)
 
 (require 'package)
 (add-to-list 'package-archives
